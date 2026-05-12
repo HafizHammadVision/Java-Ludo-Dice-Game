@@ -26,8 +26,8 @@ A Java Swing based Ludo Dice Game with turn system, score tracking, dice rolling
 
 ## Screenshot
 
-![Ludo Game Screenshot](ludoDiceGame.png)
-
+![Ludo Game Screenshot](LudoDiceGame.png)
+![Ludo Game Screenshot](LudoDiceGame(2).png)
 ## Author
 
 Hammad
